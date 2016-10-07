@@ -75,6 +75,8 @@ run inside a VM!
 
 ## Plays well with others
 
+Test
+
 Docker does not require you to buy into a particular programming
 language, framework, packaging system, or configuration language.
 
